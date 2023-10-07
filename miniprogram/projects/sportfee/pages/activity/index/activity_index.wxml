@@ -9,7 +9,7 @@
 					<view class="right">
 						<view class="top">
 							<view class="title content-cut-two">{{item.ACTIVITY_TITLE}}</view>
-							<view class="desc content-cut-one">{{item.time}}</view> 
+							<view class="desc content-cut-two">{{item.time}}</view> 
 						</view>
 						<view class="line">
 							<view class="users">
